@@ -1,0 +1,52 @@
+state,electricity,abbrev,2name,area,population
+Connecticut,12.02,Conn.,CT,5544.0,3287116.0
+Maine,9.41,Maine,ME,35387.0,1227928.0
+Massachusetts,12.12,Mass.,MA,10555.0,6016425.0
+New Hampshire,12.46,N.H.,NH,9351.0,1109252.0
+Rhode Island,11.75,R.I.,RI,1545.0,1003464.0
+Vermont,11.07,Vt.,VT,9615.0,562758.0
+New Jersey,11.17,N.J.,NJ,8722.0,7730188.0
+New York,13.16,N.Y.,NY,54471.0,17990455.0
+Pennsylvania,8.27,Pa.,PA,46058.0,11881643.0
+Illinois,7.04,Ill.,IL,57918.0,11430602.0
+Indiana,5.86,Ind.,IN,36420.0,5544159.0
+Michigan,7.49,Mich.,MI,96705.0,9295297.0
+Ohio,7.07,Ohio,OH,44828.0,10847115.0
+Wisconsin,7.42,Wis.,WI,65499.0,4891769.0
+Iowa,6.74,Iowa,IA,56276.0,2776755.0
+Kansas,6.66,Kans.,KS,82282.0,2477574.0
+Minnesota,6.65,Minn.,MN,86943.0,4375099.0
+Missouri,6.19,Mo.,MO,69709.0,5117073.0
+Nebraska,5.88,Nebr.,NE,77358.0,1578385.0
+North Dakota,5.97,N.Dak.,ND,70704.0,638800.0
+South Dakota,6.61,S.Dak.,SD,77121.0,696004.0
+Delaware,7.55,Del.,DE,2489.0,666168.0
+District of Columbia,9.05,D.C.,DC,68.0,606900.0
+Florida,8.76,Fla.,FL,65756.0,12937926.0
+Georgia,7.45,Ga.,GA,59441.0,6478216.0
+Maryland,7.83,Md.,MD,12407.0,4781468.0
+North Carolina,7.29,N.C.,NC,53821.0,6628637.0
+South Carolina,6.73,S.C.,SC,32008.0,3468703.0
+Virginia,6.64,Va.,VA,42777.0,6187358.0
+West Virginia,5.16,W.Va.,WV,24231.0,1793477.0
+Alabama,6.51,Ala.,AL,52423.0,4040587.0
+Kentucky,4.96,Ky.,KY,40411.0,3685296.0
+Mississippi,7.57,Miss.,MS,48434.0,2573216.0
+Tennessee,6.31,Tenn.,TN,42146.0,4877185.0
+Arkansas,6.25,Ark.,AR,53182.0,2350725.0
+Louisiana,8.04,La.,LA,51843.0,4219973.0
+Oklahoma,6.93,Okla.,OK,69903.0,3145585.0
+Texas,9.06,Tex.,TX,268601.0,16986510.0
+Arizona,7.89,Ariz.,AZ,114006.0,3665228.0
+Colorado,7.58,Colo.,CO,104100.0,3294394.0
+Idaho,5.1,Idaho,ID,83574.0,1006749.0
+Montana,6.75,Mont.,MT,147046.0,799065.0
+Nevada,8.87,Nev.,NV,110567.0,1201833.0
+New Mexico,7.54,N.Mex.,NM,121598.0,1515069.0
+Utah,6.03,Utah,UT,84904.0,1722850.0
+Wyoming,5.13,Wyo.,WY,97818.0,453588.0
+California,11.31,Calif.,CA,163707.0,29769021.0
+Oregon,6.22,Oreg.,OR,98386.0,2842321.0
+Washington,5.71,Wash.,WA,71302.0,4866692.0
+Alaska,11.5,Alaska,AK,656424.0,550043.0
+Hawaii,18.11,Hawaii,HI,10932.0,1108229.0
