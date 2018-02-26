@@ -29,7 +29,7 @@ Electricity Price = Population * <alpha> + <beta>
   
 6. Obtain a random sample of approximately 100 colleges in which:  
   
-a. Each public college is equally likely to be sampled and each private college is equally likely to be sampled.  
+Each public college is equally likely to be sampled and each private college is equally likely to be sampled.  
   
-b. The sample is weighted so that in expectation there are the same number of public and private colleges in the sample.  
+And the sample is weighted so that in expectation there are the same number of public and private colleges in the sample.  
 
